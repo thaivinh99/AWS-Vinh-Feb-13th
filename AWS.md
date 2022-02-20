@@ -4,7 +4,7 @@
 ![File Index](/File-index.png")
 
 ## Chạy HTTP 80 ở máy bằng docker nginx
-![Chay HTTP 80](/Chay-http-80")
+![Chay HTTP 80](/Chay-http-80.png")
 
 ## Push image lên docker hub
 ![File Index](/Push-image-len-docker-hub.png")
