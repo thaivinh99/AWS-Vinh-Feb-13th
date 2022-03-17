@@ -4,7 +4,7 @@
 ![0.create-2-instance](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/0.create-2-instance.png)
 
 ## Task 2: Connect SSH to the EC2 instance, remove the authorized_keys then disconnect the SSH
-###Connect to LostSSHKey
+### Connect to LostSSHKey
 ![1.ssh-to-instance-lostsshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/1.ssh-to-instance-lostsshkey.png)
 ![2.rm-authorized-keys-then-logout](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/2.rm-authorized-keys-then-logout.png)
 ![3.detach-volume-of-lostsshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/3.detach-volume-of-lostsshkey.png)
