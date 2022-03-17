@@ -43,6 +43,8 @@
 ![36.edit-awslogs.conf](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/36.edit-awslogs.conf.png)
 ![37.restart-nginx-and-awslogs](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/37.restart-nginx-and-awslogs.png)
 ![38.find-s3](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/38.find-s3.png)
+
+## Task 5 : Create an S3 bucket
 ![39.click-on-create-bucket](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/39.click-on-create-bucket.png)
 ![40.type-bucket-name-then-create](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/40.type-bucket-name-then-create.png)
 ![41.successfully-created-bucket](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/41.successfully-created-bucket.png)
