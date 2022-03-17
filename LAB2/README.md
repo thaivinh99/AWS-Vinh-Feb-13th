@@ -1,9 +1,9 @@
 # LAB 2
-## Create an EC2 instance with type t2.micro (in a public subnet)
+## Task 1 :Create an EC2 instance with type t2.micro (in a public subnet)
 
 ![0.create-2-instance](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/0.create-2-instance.png)
 
-##Task 2: Connect SSH to the EC2 instance, remove the authorized_keys then disconnect the SSH
+## Task 2: Connect SSH to the EC2 instance, remove the authorized_keys then disconnect the SSH
 ###Connect to LostSSHKey
 ![1.ssh-to-instance-lostsshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/1.ssh-to-instance-lostsshkey.png)
 ![2.rm-authorized-keys-then-logout](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/2.rm-authorized-keys-then-logout.png)
@@ -19,7 +19,7 @@
 ![12.attach-volume-of-lostsshkey-to-lostsshkey-inst-with-device-name-xdva](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/12.attach-volume-of-lostsshkey-to-lostsshkey-inst-with-device-name-xdva.png)
 ![13.start-lostsshkey-instance](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/13.start-lostsshkey-instance.png)
 
-##Task 3: Delete SSH access from the EC2 security group
+## Task 3: Delete SSH access from the EC2 security group
 
 ![14.IAM-roles](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/14.IAM-roles.png)
 ![15.Select-trusted-entity](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/15.Select-trusted-entity.png)
@@ -29,6 +29,9 @@
 ![19.Start-session](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/19.Start-session.png)
 ![20.Choose-LostSSHKey-then-start-session](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/20.Choose-LostSSHKey-then-start-session.png)
 ![21.Session](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/21.Session.png)
+
+## Task 4 : Install nginx on the EC2 instance (not using docker)
+
 ![]()
 ![]()
 ![]()
