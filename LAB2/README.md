@@ -102,35 +102,35 @@
 
 ## Task 6 : Create a CloudWatch dashboard that includes the following Metrics of all EC2 instances in Auto Scaling Group
 
-### 
+### Go to cloudwatch service then create dashboard 
 ![50.go-to-cloudwatch-and-create-dashboard](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/50.go-to-cloudwatch-and-create-dashboard.png)
-### 
+### Set name and create 
 ![51.type-name-then-create](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/51.type-name-then-create.png)
-### 
+### Wizard 
 ![52.amazon-cloudwatch-agent-config-wizard](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/52.amazon-cloudwatch-agent-config-wizard.png)
-### 
+### Saved config file to config.json successfully
 ![53.saved-config-file-to-config.json-successfully](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/53.saved-config-file-to-config.json-successfully.png)
-### 
+### Start the cloudwatch-agent on a server 
 ![54.start-the-cloudwatch-agent-on-a-server](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/54.start-the-cloudwatch-agent-on-a-server.png)
-### 
+### Install required packages
 ![55.Install-required-packages](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/55.Install-required-packages.png)
-### 
+### Set cron-schedule 
 ![56.set-cron-schedule](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/56.set-cron-schedule.png)
-### 
+### Go to dashboard and add widget 
 ![57.go-to-dashboard-and-add-widget](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/57.go-to-dashboard-and-add-widget.png)
-### 
+### Select widget type 
 ![58.select-widget-type](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/58.select-widget-type.png)
-### 
+### Add metric graph and create widget 
 ![59.add-metric-graph-and-create-widget](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/59.add-metric-graph-and-create-widget.png)
-### 
+### Cloudwatch dashboard after added widget
 ![60.cloudwatch-dashboard-after-added-widget](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/60.cloudwatch-dashboard-after-added-widget.png)
 
 ## Task 7 : Create CloudWatch log filter for 404 error from nginx
-### 
+### Go to loggroups logs and create metric filter 
 ![61.go-to-loggroups-logs-and-create-metric-filter](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/61.go-to-loggroups-logs-and-create-metric-filter.png)
-### 
+### Test pattern with filter pattern 404 
 ![62.test-pattern-with-filter-pattern-404](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/62.test-pattern-with-filter-pattern-404.png)
-### 
+### Metric details 
 ![63.metric-details](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/63.metric-details.png)
-### 
+### Review and create metric filter 
 ![64.review-and-create-metric-filter](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/64.review-and-create-metric-filter.png)
