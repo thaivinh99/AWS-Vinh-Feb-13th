@@ -52,51 +52,52 @@
 
 ## Task 4 : Install nginx on the EC2 instance (not using docker)
 
-### 
+### Attach new policies to EC2 Role 
 ![28.attach-new-policies-to-ec2-roles](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/28.attach-new-policies-to-ec2-roles.png)
-### 
+### Attach CloudWatchFullAccess policies 
 ![29.find-CloudWatchFullAcesss-then-click-on-Attach-policies](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/29.find-CloudWatchFullAcesss-then-click-on-Attach-policies.png)
-### 
+### Policy has been successfully attached to role
 ![30.Policy-has-been-successfully-attached-to-role](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/30.Policy-has-been-successfully-attached-to-role.png)
-### 
+### Install awslogs 
 ![31.install-awslogs](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/31.install-awslogs.png)
-### 
+### install nginx service 
 ![32.install-nginx-service](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/32.install-nginx-service.png)
-### 
+### Curl post 80 
 ![33.curl-localhost80](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/33.curl-localhost80.png)
-### 
+### Install awslogs 
 ![34.install-awslogs](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/34.install-awslogs.png)
-### 
+### Go to awslogs.conf 
 ![35.go-to-awslogs.conf-and-edit](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/35.go-to-awslogs.conf-and-edit.png)
-### 
+### Edit awslogs.conf 
 ![36.edit-awslogs.conf](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/36.edit-awslogs.conf.png)
-### 
+### Restart nginx and awslogs 
 ![37.restart-nginx-and-awslogs](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/37.restart-nginx-and-awslogs.png)
-### 
-![38.find-s3](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/38.find-s3.png)
+
 
 ## Task 5 : Create an S3 bucket
-### 
+### Go to S3 services
+![38.find-s3](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/38.find-s3.png)
+### Click on create bucket 
 ![39.click-on-create-bucket](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/39.click-on-create-bucket.png)
-### 
+### Set bucket name 
 ![40.type-bucket-name-then-create](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/40.type-bucket-name-then-create.png)
-### 
+### Successfully created bucket 
 ![41.successfully-created-bucket](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/41.successfully-created-bucket.png)
-### 
+### Go to roles service and attach policies 
 ![42.go-to-roles-and-attach-policies](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/42.go-to-roles-and-attach-policies.png)
-### 
+### Find amazons3fullaccess then click on attach policies
 ![43.find-amazons3fullaccess-then-click-on-attach-policies](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/43.find-amazons3fullaccess-then-click-on-attach-policies.png)
-### 
+### Add cloudwatchlogsfullaccess
 ![44.add-cloudwatchlogsfullaccess](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/44.add-cloudwatchlogsfullaccess.png)
-### 
+### Find html address 
 ![45.find-html-address](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/45.find-html-address.png)
-### 
+### Create .sh file 
 ![46.create-.sh-file](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/46.create-.sh-file.png)
-### 
+### Sync to nginx 
 ![47.sync_to_nginx](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/47.sync_to_nginx.png)
-### 
+### Chmod then set crontab_sync at 0 minutes
 ![48.chmod-and-set-crontab-sync-at-0-minutes](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/48.chmod-and-set-crontab-sync-at-0-minutes.png)
-### 
+### Check sync_nginx 
 ![49.check-sync-nginx](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/49.check-sync-nginx.png)
 
 ## Task 6 : Create a CloudWatch dashboard that includes the following Metrics of all EC2 instances in Auto Scaling Group
