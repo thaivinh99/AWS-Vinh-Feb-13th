@@ -6,7 +6,9 @@
 ## Task 2: Connect SSH to the EC2 instance, remove the authorized_keys then disconnect the SSH
 ### Connect to LostSSHKey
 ![1.ssh-to-instance-lostsshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/1.ssh-to-instance-lostsshkey.png)
+### remove authorized-keys then logout 
 ![2.rm-authorized-keys-then-logout](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/2.rm-authorized-keys-then-logout.png)
+### detach volume of lostsshkey
 ![3.detach-volume-of-lostsshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/3.detach-volume-of-lostsshkey.png)
 ![4.stop-inst-lostsshkey-and-launch-recoversshkey](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/4.stop-inst-lostsshkey-and-launch-recoversshkey.png)
 ![5.attach-volume-of-lostsshkey-to-recoversshkey-inst](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/5.attach-volume-of-lostsshkey-to-recoversshkey-inst.png)
@@ -56,6 +58,9 @@
 ![47.sync_to_nginx](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/47.sync_to_nginx.png)
 ![48.chmod-and-set-crontab-sync-at-0-minutes](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/48.chmod-and-set-crontab-sync-at-0-minutes.png)
 ![49.check-sync-nginx](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/49.check-sync-nginx.png)
+
+## Task 6 : Create a CloudWatch dashboard that includes the following Metrics of all EC2 instances in Auto Scaling Group
+
 ![50.go-to-cloudwatch-and-create-dashboard](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/50.go-to-cloudwatch-and-create-dashboard.png)
 ![51.type-name-then-create](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/51.type-name-then-create.png)
 ![52.amazon-cloudwatch-agent-config-wizard](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/52.amazon-cloudwatch-agent-config-wizard.png)
@@ -67,6 +72,8 @@
 ![58.select-widget-type](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/58.select-widget-type.png)
 ![59.add-metric-graph-and-create-widget](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/59.add-metric-graph-and-create-widget.png)
 ![60.cloudwatch-dashboard-after-added-widget](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/60.cloudwatch-dashboard-after-added-widget.png)
+
+## Task 7 : Create CloudWatch log filter for 404 error from nginx
 ![61.go-to-loggroups-logs-and-create-metric-filter](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/61.go-to-loggroups-logs-and-create-metric-filter.png)
 ![62.test-pattern-with-filter-pattern-404](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/62.test-pattern-with-filter-pattern-404.png)
 ![63.metric-details](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB2/63.metric-details.png)
