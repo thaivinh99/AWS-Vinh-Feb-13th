@@ -41,9 +41,10 @@
 ### Create t2.micro EC2 instance in a private subnet 
 ![create-t2.micro-ec2-instance-in-a-private-subnet](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/task3.create-t2.micro-ec2-instance-in-a-private-subnet.png)
 ### 
-![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/putty.png)
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/task3.ssh.png)
 ### 
-![]()
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/putty.png)
+
 ### 
 ![]()
 ### 
