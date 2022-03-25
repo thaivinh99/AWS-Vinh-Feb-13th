@@ -36,3 +36,15 @@
 
 
 ## Task 3 : Create the third t2.micro EC2 instance in a private subnet
+### Create t2.micro EC2 instance 
+![create-t2.micro-ec2-instance](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/task3.create-t2.micro-ec2-instance.png)
+### Create t2.micro EC2 instance in a private subnet 
+![create-t2.micro-ec2-instance-in-a-private-subnet](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/task3.create-t2.micro-ec2-instance-in-a-private-subnet.png)
+### 
+![]()
+### 
+![]()
+### 
+![]()
+### 
+![]()
