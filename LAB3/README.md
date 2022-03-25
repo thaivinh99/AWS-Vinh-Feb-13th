@@ -46,6 +46,6 @@
 ![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/putty.png)
 
 ### 
-![]()
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3/task3.ssh-timeout.png)
 ### 
 ![]()
