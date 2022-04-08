@@ -1,4 +1,6 @@
 # TASK 3
+## Security Group
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/0.security-group.png)
 ## IAM Role 
 ![IAM Role](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/1.IAM-Role.png)
 ## Modify IAM Role 
@@ -17,3 +19,9 @@
 ![Accept request](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/9.accept-request.png)
 ## Peering connection has ben established
 ![Peering connection has ben established](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/10.peering-connection-has-been-established.png)
+## Edit routes 
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/11.edit-routes.png)
+## Update routes successfully
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/12.update-routes-successfully.png)
+## Ping 
+![](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/13.ping.png)
