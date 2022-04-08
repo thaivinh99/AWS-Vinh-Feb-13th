@@ -13,7 +13,7 @@
 ![Session](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/7.session.png)
 ## Peering connection 
 ![Peering Connection](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/8.peerinng-connection.png)
-## Accept Request from Long Vy's device 
+## Accept Request 
 ![Accept request](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/9.accept-request.png)
 ## Peering connection has ben established
 ![Peering connection has ben established](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/10.peering-connection-has-been-established.png)
