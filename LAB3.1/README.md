@@ -4,7 +4,7 @@
 ## Modify IAM Role 
 ![Modify IAM Role](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/2.modify-iam-role.png)
 ## EC2 Database subnet 
-![EC2 Database Subnet(https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/3.ec2-database-subnet.png)
+![EC2 Database Subnet](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/3.ec2-database-subnet.png)
 ## Create Endpoint and enable DNS 
 ![Create Endpoint and enable DNS](https://github.com/thaivinh99/AWS-Vinh-Feb-13th/blob/main/LAB3.1/4.create-end-point.png)
 ## Connect to instance 
